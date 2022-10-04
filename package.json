@@ -1,0 +1,29 @@
+{
+  "name": "community-tesseract",
+  "version": "1.0.0",
+  "description": "Core Code project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseMiguel22/c-tesserac-.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node.js",
+    "SQLite"
+  ],
+  "author": "JoseMiguel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseMiguel22/c-tesserac-/issues"
+  },
+  "homepage": "https://github.com/JoseMiguel22/c-tesserac-#readme",
+  "dependencies": {
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.2"
+  },
+  "type": "module"
+}
