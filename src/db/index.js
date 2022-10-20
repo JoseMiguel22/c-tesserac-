@@ -41,4 +41,4 @@ async function initDB(){
   }
 }
 
-export {initDB, getDBHandler};
+export { getDBHandler, initDB };
